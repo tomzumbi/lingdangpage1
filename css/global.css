@@ -1,0 +1,70 @@
+.body{
+    background-color: #061121;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.title{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.button1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text{
+    color: #F4D247;
+}
+.title2{
+    text-align: left;
+    width:40%;
+    word-wrap:break-word;
+    margin-left: 32%;
+
+}
+
+
+
+
+.card {
+    width: 90%;
+    height: 110%%;
+    border-radius: 20px;
+    padding: 5px;
+
+    background-image: linear-gradient(144deg, #2A1B34FF, #2A1B34FF 50%,#2A1B34FF);
+}
+
+.left {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.container3 {
+    position: relative;
+    text-align: right;
+    color: white;
+}
+.right {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+
